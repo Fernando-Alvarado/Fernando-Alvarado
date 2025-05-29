@@ -8,7 +8,7 @@
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="28%" align="right" style="margin-left: 20px; margin-bottom: 10px;" />
 
 - 🎓 I am a `mathematics` student at [Facultad de Ciencias](https://www.fciencias.unam.mx/) in [UNAM](https://www.unam.mx/).
-- 📊 Enrolled in a diploma program in `Data Science` and `Machine Learning` offered by the [Facultad de Ciencias](https://www.fciencias.unam.mx/).
+- 📊 Enrolled in a `Data Science` and `Machine Learning` diploma program offered by the [Facultad de Ciencias](https://www.fciencias.unam.mx/).
 - 💻 **Currently working on** [Instituto de Investigaciones Económicas](https://economicas.unam.mx/) focusing on `Data Science`.
 - 📫 Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&message=FernandoAlvarado&color=EA4335&style=flat-square)](mailto:f3rnando.elmer@gmail.com)
 - 🧠 `If you can think it, you can code it.`
