@@ -5,7 +5,7 @@
 ## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="30px"> About me
 
 <!-- Imagen flotante a la derecha -->
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" align="right" style="margin-left: 20px; margin-bottom: 10px;" />
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="28%" align="right" style="margin-left: 20px; margin-bottom: 10px;" />
 
 - 🎓 I am a `mathematics` student at [Facultad de Ciencias](https://www.fciencias.unam.mx/) in [UNAM](https://www.unam.mx/).
 - 📊 Enrolled in a diploma program in `Data Science` and `Machine Learning` offered by the [Facultad de Ciencias](https://www.fciencias.unam.mx/).
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,py,r,php,js,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,py,r,php,js,mysql,anaconda,bash,react,vscode" />
   </a>
 </p>
 
