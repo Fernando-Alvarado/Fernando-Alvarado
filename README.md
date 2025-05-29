@@ -5,7 +5,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Hi there👋, I'm Elio Chiu</h1></summary>
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Fernando Alvarado Palacios </h1></summary>
   </ul>
 </div>
 
@@ -14,14 +14,13 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" /></picture>
 
-- :school: I am a `Junior` at [School of Cyber Science and Technology](https://cst.buaa.edu.cn/) in [BUAA](https://ev.buaa.edu.cn/)
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+- :school:  I am a `mathematics` student at  [Facultad de Ciencias](https://www.fciencias.unam.mx/) in [UNAM](https://www.unam.mx/).
+- :bar_chart: Enrolled in a diploma program in `Data Science` and `Machine Learning` offered by the [Facultad de Ciencias](https://www.fciencias.unam.mx/). 
+- :technologist: **Currently working on** [Instituto de Investigaciones Económicas](https://economicas.unam.mx/) focusing on `Data Science`
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:f3rnando.elmer@gmail.com)
+- :nerd_face: `If you can think it, you can code it.`
 
 <br>
 
@@ -177,3 +176,31 @@ I'm a second year CSE undergraduate pursuing B.Tech and a passionate programmer 
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
+
+
+
+ Hi everyone, i'm Kevin Allioli aka (@linitio)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
+<p width="45%">
+Hi, nice to meet you. Let me introduce my profile in a few lines.
+  <ul>
+    <li>👨‍🔧 I'm an <b>IT engineer</b></li>
+    <li>📍 Based near <b>Geneva</b></li>
+    <li>🏢 I'm working for <b>Infomaniak Network</b> & <b>LinIT</b></li>
+    <li>🌱 I'm currently learning <b>COA Certification</b> and <b>Python</b></li>
+    <li>💬 You can ask me about <b>OpenStack, Docker, Cloud Architecture...</b></li>
+    <li>📮 You can contact me directly here : <b>kevin@linit.io</b>
+  </ul>
+Passionate IT engineer and trainer, I am always looking for new challenges.
+<br>For a few years now I've been focusing on cloud architecture and deployment, especially with <b>OpenStack</b> and <b>AWS</b> solutions as well as <b>containerization technologies</b>. I'm also working on <b>learning contents</b> on these same topics.<br>
+If you want to discuss about it, feel free to contact me.
+</p>
+
+## 🌐 You can find me on :
+<p align="center">
+  <a href="https://www.linkedin.com/in/kevinallioli/" target="_blank"><img alt="Kevin Allioli LinkedIn profile" src="https://github.com/linitio/static-content/blob/main/img/logo/linkedin-button.png?raw=true" width="13%"></a>
+  <a href="https://twitter.com/linit_io/" target="_blank"><img alt="linit.io Twitter profile" src="https://github.com/linitio/static-content/blob/main/img/logo/twitter-button.png?raw=true" width="13%"></a>
+  <a href="https://www.openstack.org/community/members/profile/139244/kevin-allioli" target="_blank"><img alt="Kevin Allioli OpenInfra profile" src="https://github.com/linitio/static-content/blob/main/img/logo/openinfra-button.png?raw=true" width="13%"></a>
+  <a href="https://www.youtube.com/channel/UCprX4LgBZkGr6hcyy5NSgoQ"><img alt="linit.io YouTube channel" src="https://github.com/linitio/static-content/blob/main/img/logo/youtube-button.png?raw=true" width="13%"></a>
+</p>
+
